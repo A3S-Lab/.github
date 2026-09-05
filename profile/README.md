@@ -47,6 +47,10 @@ flowchart LR
 
 ## 两种理论：流体智力与晶体智力
 
+<p align="center">
+  <img src="./assets/fluid-crystal-intelligence.png" width="100%" alt="流体智力从动态协作中发现新解，并沉淀为可复用的晶体智力">
+</p>
+
 ### 流体智力 · Fluid Intelligence
 
 **流体智力**是团队面对新问题时，将人、Agent、数据、工具和算力即时组合并作出判断的能力。它不依赖既有模板，而是在具体上下文中理解目标、提出假设、快速试错，并找到可行的新解。A3S OS 让这种探索发生在清晰的策略和权限边界内。
